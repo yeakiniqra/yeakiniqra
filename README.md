@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeakiniqra&label=Profile%20views&color=0e75b6&style=flat" alt="yeakiniqra" /> </p>
 
-- 🌱 I’m currently learning **React-Native & Django**
+- 🌱 I’m currently learning **React-Native & Node.Js**
 
-- 👨‍💻 All of my projects are available at [https://yeakiniqra1.vercel.app/](https://yeakiniqra1.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://yeakiniqra.vercel.app/](https://yeakiniqra.vercel.app/)
 
-- 💬 Ask me about **react,tailwind & gsap**
+- 💬 Ask me about **React,Tailwind & Django**
 
 - 📫 How to reach me **yeakiniqra.connect@gmail.com**
 
