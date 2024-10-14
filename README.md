@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Yeakin Iqra</h1>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br> I'm Yeakin Iqra</h1>
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=poppins&weight=600&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Crafting+Interactive+Worlds" alt="Typing SVG" />
   </a>
 </div>
-
+ <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" align="right" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeakiniqra&label=Profile%20views&color=0e75b6&style=flat" alt="yeakiniqra" /> </p>
 
 - 🌱 I’m currently learning **React-Native & Node.Js**
