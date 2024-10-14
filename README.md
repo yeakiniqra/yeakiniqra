@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yeakin Iqra</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=poppins&weight=600&size=24&pause=1000&center=true&width=435&lines=Building+bridges+between+ideas+and+experiences" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=poppins&weight=600&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Crafting+Interactive+Worlds" alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeakiniqra&label=Profile%20views&color=0e75b6&style=flat" alt="yeakiniqra" /> </p>
 
