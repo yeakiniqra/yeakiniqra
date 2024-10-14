@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yeakin Iqra</h1>
-<h3 align="center">Love to work in Frontend.</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=600&size=24&pause=1000&center=true&width=435&lines=Love+to+build+Apps" alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeakiniqra&label=Profile%20views&color=0e75b6&style=flat" alt="yeakiniqra" /> </p>
 
