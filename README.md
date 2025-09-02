@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br> I'm Yeakin Iqra</h1>
 
-- 🌱 I’m currently learning **FastAPI & Compose Multiplatform**
+- 🌱 I’m currently learning **FastAPI**
 
 - 👨‍💻 All of my projects are available at [yeakiniqra.com](https://yeakiniqra.com/)
 
