@@ -6,7 +6,11 @@
 
 - 💬 Ask me about **Next Js,Tailwind & Django REST Framework**
 
-- 📫 How to reach me **yeakiniqra.connect@gmail.com**
+- 📫 How to reach me **yeakintheiqra@gmail.com**
+
+## Statistics
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yeakiniqra&theme=github_dark" />
 
 ## 📊 GitHub Stats
 
