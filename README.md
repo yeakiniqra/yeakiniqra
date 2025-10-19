@@ -78,7 +78,7 @@ const yeakinIqra = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yeakiniqra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yeakiniqra&theme=github_dark" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yeakiniqra&theme=tokyonight&hide_border=true" />
 </div>
 
