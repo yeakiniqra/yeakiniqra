@@ -129,7 +129,3 @@ const yeakinIqra = {
 </div>
 
 <br>
-
-<div align="center">
-  ![](https://hit.yhype.me/github/profile?user_id=yeakiniqra)
-</div>
