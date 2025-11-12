@@ -11,7 +11,6 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=yeakiniqra&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
   <img src="https://img.shields.io/github/followers/yeakiniqra?label=Followers&style=for-the-badge&color=blue" alt="followers" />
-  <img src="https://img.shields.io/github/stars/yeakiniqra?label=Total%20Stars&style=for-the-badge&color=yellow" alt="stars" />
 </div>
 
 <br>
