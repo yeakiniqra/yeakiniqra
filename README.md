@@ -23,15 +23,15 @@
 const yeakinIqra = {
     pronouns: "He/Him",
     location: "Dhaka, Bangladesh 🇧🇩",
-    currentFocus: "Learning FastAPI 🐍",
-    interests: ["Web Development", "API Design", "UI/UX"],
+    currentFocus: "Learning DOTNET",
+    interests: ["Web Development", "API Design", "Mobile App Development"],
     technologies: {
-        frontend: ["Next.js", "React", "Tailwind CSS"],
-        backend: ["Django REST Framework", "FastAPI"],
-        databases: ["PostgreSQL", "MongoDB"],
-        tools: ["Git", "Docker", "VS Code"]
+        frontend: ["Next.js", "React", "Shadcn UI"],
+        backend: ["Django REST Framework", "FastAPI", "Express.js", "Node.js" ],
+        databases: ["PostgreSQL", "MySQL", "NoSQL"],
+        tools: ["Git/Github", "Docker", "VS Code", "Postman/Bruno", "Swagger"]
     },
-    portfolio: "https://yeakiniqra.com",
+    portfolio: "https://yeakiniqra.me",
     email: "yeakintheiqra@gmail.com",
     funFact: "I debug with console.log() 😄"
 };
@@ -92,13 +92,16 @@ const yeakinIqra = {
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yeakiniqra&theme=highcontrast" alt="GitHub Streak" /></a>
 </div>
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeakiniqra&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
+</div> -->
+<p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=yeakiniqra&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=false&summary=false&profile=false" alt="GitHub Insights" />
+</p>
 
 <br>
 
