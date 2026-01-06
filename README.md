@@ -105,6 +105,51 @@ const yeakinIqra = {
 
 <br>
 
+## 🌟 Open Source Contributions
+
+<div align="center">
+  <p>I'm proud to be an active contributor to open source UI libraries, helping make web development easier for everyone! 🎨✨</p>
+</div>
+
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### SmoothUI
+[![SmoothUI Contributor](https://img.shields.io/badge/SmoothUI-Contributor-4F46E5?style=for-the-badge&logo=react&logoColor=white)](https://smoothui.dev)
+
+A modern React component library focused on smooth animations and beautiful UX
+
+**My Contributions:**
+- Searchable Dropdown Component
+- Animation enhancements
+- Documentation improvements
+
+[**View Component →**](https://smoothui.dev/components/dropdown)
+
+</td>
+<td width="50%" valign="top">
+
+### ZenUI
+[![ZenUI Contributor](https://img.shields.io/badge/ZenUI-Contributor-10B981?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://zenui.dev)
+
+A comprehensive UI library built with Tailwind CSS for rapid development
+
+**My Contributions:**
+- Component Development & Enhancements
+- Accessibility improvements
+- Testing coverage
+
+[**Explore Library →**](https://zenui.dev)
+
+</td>
+</tr>
+</table>
+
+<br>
+
 ## 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeakiniqra&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
