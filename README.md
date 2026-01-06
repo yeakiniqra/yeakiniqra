@@ -133,7 +133,7 @@ A modern React component library focused on smooth animations and beautiful UX
 <td width="50%" valign="top">
 
 ### ZenUI
-[![ZenUI Contributor](https://img.shields.io/badge/ZenUI-Contributor-10B981?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://zenui.dev)
+[![ZenUI Contributor](https://img.shields.io/badge/ZenUI-Contributor-10B981?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://zenui.net)
 
 A comprehensive UI library built with Tailwind CSS for rapid development
 
