@@ -142,7 +142,7 @@ A comprehensive UI library built with Tailwind CSS for rapid development
 - Accessibility improvements
 - Testing coverage
 
-[**Explore Library →**]([https://zenui.net](https://zenui.net/))
+[**Explore Library →**](https://zenui.net)
 
 </td>
 </tr>
