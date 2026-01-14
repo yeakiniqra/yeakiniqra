@@ -115,7 +115,7 @@ const yeakinIqra = {
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### SmoothUI
 [![SmoothUI Contributor](https://img.shields.io/badge/SmoothUI-Contributor-4F46E5?style=for-the-badge&logo=react&logoColor=white)](https://smoothui.dev)
@@ -130,7 +130,7 @@ A modern React component library focused on smooth animations and beautiful UX
 [**View Component →**](https://smoothui.dev/components/dropdown)
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### ZenUI
 [![ZenUI Contributor](https://img.shields.io/badge/ZenUI-Contributor-10B981?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://zenui.net)
@@ -143,6 +143,21 @@ A comprehensive UI library built with Tailwind CSS for rapid development
 - Testing coverage
 
 [**Explore Library →**](https://zenui.net)
+
+</td>
+<td width="33%" valign="top">
+
+### memwatcher
+[![memwatcher Creator](https://img.shields.io/badge/memwatcher-Creator%20%26%20Maintainer-FF6B6B?style=for-the-badge&logo=python&logoColor=white)](https://pypi.org/project/memwatcher/)
+
+Intelligent Memory Leak Detective for Python - A powerful tool for detecting and analyzing memory leaks
+
+**My Role:**
+- Creator & Maintainer
+- Core architecture & implementation
+- Active development & support
+
+[**View on PyPI →**](https://pypi.org/project/memwatcher/)
 
 </td>
 </tr>
